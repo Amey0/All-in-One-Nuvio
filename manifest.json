@@ -4,7 +4,7 @@
   "scrapers": [
     {
       "id": "zinkmovies",
-      "name": "ZinkMovies",
+      "name": "🟢ZinkMovies",
       "description": "Bollywood Movies, Hollywood Movies, South Indian Movies, Hindi Dubbed Movies, Web Series, OTT Releases, & Trending Cinema",
       "version": "1.0.0",
       "author": "Kabir",
@@ -29,7 +29,7 @@
     },
     {
       "id": "vegamovies",
-      "name": "VegaMovies",
+      "name": "🟢VegaMovies",
       "description": "VegaMovies streaming with high-quality direct links",
       "version": "2.0",
       "author": "piratezoro9",
@@ -51,7 +51,7 @@
     },
     {
       "id": "moviesdrive",
-      "name": "MoviesDrive",
+      "name": "🟢MoviesDrive",
       "description": "MoviesDrive - Movies and TV shows with multiple streaming servers",
       "version": "3.0.0",
       "author": "PirateZoro9",
@@ -74,7 +74,7 @@
     },
     {
       "id": "moviebox",
-      "name": "MovieBox",
+      "name": "🟡MovieBox",
       "description": "MovieBox - Hindi, Tamil, Telugu & English Movies/Series with multi-quality streams",
       "version": "1.0.1",
       "author": "Xyr0nX",
@@ -98,7 +98,7 @@
     },
     {
       "id": "peachify",
-      "name": "🍑 Peachify",
+      "name": "🟡Peachify",
       "description": "Streams from peachify.top — 3 server sources (MovieBox/Holly/Air) via Cloudflare Workers with AES-256-GCM decryption",
       "version": "1.0.0",
       "author": "piratezoro9",
